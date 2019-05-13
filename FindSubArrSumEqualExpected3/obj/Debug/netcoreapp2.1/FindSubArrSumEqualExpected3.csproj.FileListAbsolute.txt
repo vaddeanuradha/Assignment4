@@ -1,0 +1,11 @@
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\bin\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.deps.json
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\bin\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.runtimeconfig.json
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\bin\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.runtimeconfig.dev.json
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\bin\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.dll
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\bin\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.pdb
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\obj\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.csprojAssemblyReference.cache
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\obj\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.csproj.CoreCompileInputs.cache
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\obj\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.AssemblyInfoInputs.cache
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\obj\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.AssemblyInfo.cs
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\obj\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.dll
+D:\DatastructuresForArrays\FindSubArrSumEqualExpected\obj\Debug\netcoreapp2.1\FindSubArrSumEqualExpected3.pdb

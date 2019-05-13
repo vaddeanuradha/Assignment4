@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DutchNationalFlag5A/obj
+/.vs/Assignment4Problems/v15/Server/sqlite3
+/DutchProblem5/obj
+/FindEquilibriumIndex6/bin/Debug/netcoreapp2.1
+/FindEquilibriumIndex6/obj
+/FindKthSmallestElement8/bin/Debug/netcoreapp2.1
+/FindKthSmallestElement8/obj
+/FindMissingNumProblem2/bin/Debug/netcoreapp2.1
+/FindMissingNumProblem2/obj
+/NegativeSumEqualsExpected4/bin/Debug/netcoreapp2.1
+/NegativeSumEqualsExpected4/obj
+/PrintDecreseFrequency10/bin/Debug/netcoreapp2.1
+/PrintDecreseFrequency10/obj
+/PrintLeadersOfArray7/bin/Debug/netcoreapp2.1
+/PrintLeadersOfArray7/obj
+/SpiralPrintOf2DArray9/bin/Debug/netcoreapp2.1
+/SpiralPrintOf2DArray9/obj
+/SubArrayLargestSum1/bin/Debug/netcoreapp2.1
+/SubArrayLargestSum1/obj
+/FindSubArrSumEqualExpected3/bin/Debug/netcoreapp2.1
