@@ -14,7 +14,8 @@ FindEquilibriumIndex6 video:   https://www.youtube.com/watch?v=BDdS7Yh3OwQ
 
 PrintLeadersOfArray7 video:  https://www.youtube.com/watch?v=oyWxVyMqRxk
 
-FindKthSmallestElement8 video:  
+FindKthSmallestElement8 video:  https://www.youtube.com/watch?v=o5tY3SHcXnQ
+
 
 SpiralPrintOf2DArray9 video:  https://www.youtube.com/watch?v=ISJCAmttnJk
 
